@@ -1,0 +1,46 @@
+*{
+	margin: 0;
+	padding: 0 auto;
+}
+
+html,body{
+	height: 100%;
+}
+
+nav{
+		height: 100px;
+		padding: 20px;
+		left: 1000px;
+
+}
+
+.nav.navbar-nav{
+	position: absolute;
+	left: 500px;
+}
+
+.sect{
+	height: 100%;
+	background-size: cover;
+}
+
+.subSect{
+	height: 100%;
+	background-color: bisque;
+}
+
+.sectOne{
+	background-image: url(../images/larm-rmah-151478.jpg);
+
+}
+
+.sectTwo{
+	background-image: url("../images/jack-rains-115174.jpg");
+	height: 70%;
+}
+
+.subSect.two{
+	background-color: orange;
+}
+
+
